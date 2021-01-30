@@ -1,4 +1,4 @@
-# Wiki developed using React JS and Wikipedia API
+# Wiki developed using React JS, Bootstrap and Wikipedia API
 
 <div>
 <img align="right" width="100%"  src="./src/images/screenshot1.PNG" />
