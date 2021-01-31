@@ -5,11 +5,11 @@
 
 ### App Screenshots
 
-![screenshot of the app](https://raw.githubusercontent.com/praveenorugantitech/ppraveenorugantitech-wiki-reactjs/master/src/images/screenshot1.PNG)
+![screenshot of the app](https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-wiki-reactjs/master/src/images/screenshot1.PNG)
 
-![screenshot of the app](https://raw.githubusercontent.com/praveenorugantitech/ppraveenorugantitech-wiki-reactjs/master/src/images/screenshot2.PNG)
+![screenshot of the app](https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-wiki-reactjs/master/src/images/screenshot2.PNG)
 
-![screenshot of the app](https://raw.githubusercontent.com/praveenorugantitech/ppraveenorugantitech-wiki-reactjs/master/src/images/screenshot3.PNG)
+![screenshot of the app](https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-wiki-reactjs/master/src/images/screenshot3.PNG)
 
 
 ### Live Demo
